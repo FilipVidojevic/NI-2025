@@ -1,8 +1,8 @@
 # Naučno izračunavanje
 
-Ovaj repozitorijum sadrži materijale sa vežbi kursa `Naučno izračunavanje` u školskoj 2021/22. godini.
+Ovaj repozitorijum sadrži materijale sa vežbi kursa `Naučno izračunavanje` u školskoj 2024/25. godini.
 
-Asistent na kursu: Anđelka Zečević
+Asistent na kursu: Filip Vidojević
 
 Profesor: Mladen Nikolić
 
@@ -23,25 +23,6 @@ Zvanični sajt kursa: [http://ni.matf.bg.ac.rs/](http://ni.matf.bg.ac.rs/)
 | 9 | Pagerank algoritam - implementacija, podrška paketa `networkx` i primer sumarizacije dokumenata |
 | 10 | Dekompozicije matrica - LU, Čoleski i SVD dekompozicije, kompresija slika, sistemi preporuka i predikcija nedostajućih vrednosti |
 | 11 | Optimizacija - bibliotečka podrška u problemima optimizacije sa i bez ograničenja; lokalna pretraga |
-| 12 | Modelovanje optimizacionih problema korišćenjem Pyomo biblioteke |
-
-
-Za pristup sveskama koje koristimo na času pogledajte `live` granu.
-
-# Video lekcije
-|Nedelja | Link |
-|:--------|:------|
-| 1 | [čas 01](https://matf.webex.com/matf/ldr.php?RCID=77b8de77f069847a8cc244a63b0a4161)
-| 2 | [čas 02](https://matf.webex.com/matf/ldr.php?RCID=416cf5a4b54193ceb407d5340d7f0fe7)
-| 3 | [čas 03](https://matf.webex.com/matf/ldr.php?RCID=e09595b957bad1d6e97e7101ad735e7c)
-| 4 | [čas 04](https://matf.webex.com/matf/ldr.php?RCID=7b6cebaf95c55aab8fb183a80fe6a904)
-| 5 | [čas 05](https://matf.webex.com/matf/ldr.php?RCID=05d4e0f79cf5956f14aa4cee04798d4a)
-| 6 | [čas 06](https://matf.webex.com/matf/ldr.php?RCID=39c4a805bd8ca031baf86ff9df6dcfaf)
-| 8 | [čas 08](https://matf.webex.com/matf/ldr.php?RCID=83862e3f81f055307396cfd32e2135a3)
-| 9 | [čas 09](https://matf.webex.com/matf/ldr.php?RCID=6af71b0779b45a2959ac9af81e377ced)
-| 10 | [čas 10](https://matf.webex.com/matf/ldr.php?RCID=cc621b379876e77d5a56ef02c6869de9)
-| 11| [čas 11](https://matf.webex.com/matf/ldr.php?RCID=0ce39c09ace94fbcb4d43aad5dab1220) - napomena: snimak je iz školske 2020/21. godine pa je za pristup u šifri potrebno zameniti godinu 22 sa godinom 21 
-| 12| [čas 12](https://matf.webex.com/matf/ldr.php?RCID=fc3cc0a86a5de40ffcf456d6db106008)
 
 
 # Tehnologije
